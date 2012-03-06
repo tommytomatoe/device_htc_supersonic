@@ -17,7 +17,7 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_evervolv</item>
+        <item>Classic_wallpaper</item>
         <item>wallpaper_architecture</item>
         <item>wallpaper_bubblegum</item>
         <item>wallpaper_canyon</item>
